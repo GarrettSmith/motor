@@ -3,3 +3,4 @@
 *~
 .hg
 doc
+src/*.class
