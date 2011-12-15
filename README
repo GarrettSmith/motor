@@ -1,0 +1,37 @@
+MOTOR ENGINE: SUPER DUPER ALPHA!
+March 7, 2011
+
+OVERVIEW
+Component based entities created at runtime through the parsing of xml files means 
+no compiling for minor alterations and the easy reuse of written components.
+
+Completely written in jave making it 100% compatible on anything that can run java 
+(That means everything!)
+
+Powerful and configurable threading system allows independent logic updates, rendering, 
+and sound playback.
+
+Completely abstracted input events allow the mapping of mouse, keyboard and even joystick 
+input into easily useable Game Input.
+
+Rule objects act similarly to entity components  to encourage reuse, and simple 
+configuration.
+
+SYSTEM PREREQUISITES
+
+uh.. it can edit text and run java so.. you'll probably be okay.
+
+INSTALLATION NOTES
+
+Got the ofiicial JDK? Then you're all set go make yourself a game!
+
+NEW FEATURES
+
+All of them this is the initial release after all! :D
+
+BUG FIXES
+
+KNOWN ISSUES
+
+It doesn't work?!
+I know that's why it is still in development!
