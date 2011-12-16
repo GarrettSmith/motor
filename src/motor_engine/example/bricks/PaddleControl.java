@@ -33,11 +33,11 @@ public class PaddleControl extends Rule {
 
 	public void begin() {
 		InputManager.define("left", Keyboard.KEY_LEFT);
-		InputManager.addControllerButton("left",0,3);
+		//InputManager.addControllerButton("left",0,3);
 		InputManager.define("right", Keyboard.KEY_RIGHT);
-		InputManager.addControllerButton("right",0,1);
+		//InputManager.addControllerButton("right",0,1);
 		InputManager.define("jump", Keyboard.KEY_SPACE);
-		InputManager.addControllerButton("jump",0,2);
+		//InputManager.addControllerButton("jump",0,2);
 	}
 
 	public void end() {
